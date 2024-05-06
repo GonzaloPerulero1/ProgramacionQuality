@@ -12,3 +12,4 @@ C:\Users\Alumno\Music\COM B\Tarea\ConsoleApp122222\ConsoleApp122222\obj\Debug\ne
 C:\Users\Alumno\Music\COM B\Tarea\ConsoleApp122222\ConsoleApp122222\obj\Debug\net8.0\ConsoleApp122222.pdb
 C:\Users\Alumno\Music\COM B\Tarea\ConsoleApp122222\ConsoleApp122222\obj\Debug\net8.0\ConsoleApp122222.genruntimeconfig.cache
 C:\Users\Alumno\Music\COM B\Tarea\ConsoleApp122222\ConsoleApp122222\obj\Debug\net8.0\ref\ConsoleApp122222.dll
+C:\Users\Alumno\Music\COM B\Tarea\ConsoleApp122222\ConsoleApp122222\obj\Debug\net8.0\ConsoleApp122222.sourcelink.json
